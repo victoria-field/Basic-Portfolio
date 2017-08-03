@@ -1,0 +1,22 @@
+body{
+	background-image: url("../images/skyscraper.png");
+}
+
+.namebox{
+	text-align: left;
+	background-color: orange
+	width: 100px;
+}
+
+.nav{
+	align-items: right;
+}
+
+.about-me{
+	text-align: left;
+
+}
+.description{
+	text-align: left;
+
+}
